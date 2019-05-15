@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab4-RelativeLayout1</string>
+    <string name="to_text">To, Fatima.</string>
+    <string name="from_text">From Khizar Hayat</string>
+</resources>
